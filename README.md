@@ -1,3 +1,14 @@
+1.- Clone this repo<br>
+2.- Go to project folder<br>
+3.- In terminal run <-- ./vendor/bin/sail up --><br>
+4.- php artisan migrate<br>
+5.- php artisan db:seed<br>
+
+API<br>
+http://localhost/api/users-registers <br>
+http://localhost/api/users-registers/1
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
